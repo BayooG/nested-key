@@ -1,7 +1,7 @@
 from setuptools import setup
 
 NAME = "nested-key"
-VERSION = "0.0.2"
+VERSION = "0.1.0"
 
 
 setup(
@@ -16,5 +16,5 @@ setup(
     include_package_data=True,
     long_description="""\
     get nested-key
-    """
+    """,
 )
